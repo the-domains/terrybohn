@@ -1,0 +1,23 @@
+name: terrybohn
+favicon: null
+layout_spectrum: 0.8116214412730187
+typography_spectrum: 0.1660541887395084
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.3418936210218817
+  lightness: 0.5659156253095716
+  saturation: 0.777908380376175
+  rhythmicContrast: 0.6386684975586832
+purpose: []
